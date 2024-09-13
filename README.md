@@ -198,4 +198,4 @@ pip install sphinx sphinx-jsondomain sphinx-markdown-builder
 make html
 make markdown
 ```
-
+https://aws.amazon.com/es/blogs/compute/executing-ansible-playbooks-in-your-amazon-ec2-image-builder-pipeline/
