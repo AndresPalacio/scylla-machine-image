@@ -199,3 +199,7 @@ make html
 make markdown
 ```
 https://aws.amazon.com/es/blogs/compute/executing-ansible-playbooks-in-your-amazon-ec2-image-builder-pipeline/
+https://medium.com/@thebaldevyadav/how-to-use-ansible-roles-b3345acd1cda
+https://github.com/scylladb/scylla-ansible-roles/tree/master
+https://pudding-entertainment.medium.com/aws-how-to-deploy-scylladb-cluster-6778f2c4ad47
+https://github.com/Enigo/java-go-jna/tree/master
